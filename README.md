@@ -1,16 +1,76 @@
 # habit_tracker
+- 1. Create a Habit
+- Users can add new habits to their tracking list.
+- Each habit includes details such as a title, description, start date, and frequency (daily, weekly, etc.).
 
-A new Flutter project.
+2. Read/View Habits
+- Users can view a list of all their habits, including active and completed ones.
+- The app displays each habit's progress, showing the percentage of completion or streaks.
+- Users can filter habits by date, frequency, or status (active/completed).
+3. Update/Edit a Habit
+- Users can edit any habit's details, such as changing the title, description, frequency, or reminder settings.
+- The app allows users to mark habits as completed for the day or reset them if needed.
 
-## Getting Started
+4. Delete a Habit
+- Users can permanently delete habits that they no longer wish to track.
+- The app provides a confirmation dialog to prevent accidental deletions.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
